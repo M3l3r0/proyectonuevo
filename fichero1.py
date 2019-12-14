@@ -1,2 +1,2 @@
-mikel = 2
+mikel = 3
 print(mikel)
